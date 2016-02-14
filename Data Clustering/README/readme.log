@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.1.13)  14 FEB 2016 05:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.1.13)  14 FEB 2016 05:26
 entering extended mode
-**E:/GitHub/KNOWLEDGE-DISCOVERY/Data*Clustering/README/hw-template.tex
-("E:/GitHub/KNOWLEDGE-DISCOVERY/Data Clustering/README/hw-template.tex"
+**E:/GitHub/KNOWLEDGE-DISCOVERY/Data*Clustering/README/readme.tex
+("E:/GitHub/KNOWLEDGE-DISCOVERY/Data Clustering/README/readme.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -310,7 +310,7 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 \RaggedRightParindent=\skip70
 \JustifyingParindent=\skip71
 )
-("E:\GitHub\KNOWLEDGE-DISCOVERY\Data Clustering\README\hw-template.aux"
+("E:\GitHub\KNOWLEDGE-DISCOVERY\Data Clustering\README\readme.aux"
 
 LaTeX Warning: Label `convergence1' multiply defined.
 
@@ -439,23 +439,23 @@ Package pdftex.def Info: complete.pdf used on input line 67.
 [4
 
  <E:/GitHub/KNOWLEDGE-DISCOVERY/Data Clustering/README/complete.pdf>]
-("E:\GitHub\KNOWLEDGE-DISCOVERY\Data Clustering\README\hw-template.aux")
+("E:\GitHub\KNOWLEDGE-DISCOVERY\Data Clustering\README\readme.aux")
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  3409 strings out of 493921
- 46320 string characters out of 3144852
+ 46270 string characters out of 3144852
  100088 words of memory out of 3000000
  6667 multiletter control sequences out of 15000+200000
  7151 words of font info for 19 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,10n,43p,309b,233s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,10n,43p,304b,233s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on hw-template.pdf (4 pages, 120201 bytes).
+Output written on readme.pdf (4 pages, 120201 bytes).
 PDF statistics:
  158 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
